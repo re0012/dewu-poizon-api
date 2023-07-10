@@ -1,7 +1,7 @@
 # dewu-poizon-api
-得物数据接口/得物API/商品尺码价格/dewu api/球鞋搬砖/poizon api
+得物实时接口/得物数据接口/得物API/商品尺码价格/dewu api/球鞋搬砖/poizon api
 
-Dewu data interface/Dewu API/ Commodity size price /Dewu api/Poizon api
+Poizon api/Dewu data interface/Dewu real-time data interface/Dewu API/ Commodity size price /Dewu api
 
 tg：@sleepallday01
 
