@@ -1,8 +1,11 @@
-# dewu-poizon-api
+# dewu-poizon-api продава
 得物实时接口/得物数据接口/得物API/商品尺码价格/dewu api/球鞋搬砖/poizon api
 
 Poizon api/Dewu data interface/Dewu real-time data interface/Dewu API/ Commodity size price /Dewu api
+* dewu API/ обувь для транспортировки кирпича /poizon API в реальном времени
 
+Contact me
+Позвони мне.
 tg：@sleepallday01
 
 vx：@sleepallday001
