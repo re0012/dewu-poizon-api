@@ -8,9 +8,9 @@ Contact me
 
 Позвони мне.
 
-tg：@sleepallday01
+Contact telegram：@sleepallday01
 
-vx：@sleepallday001
+Contact wechat：@sleepallday001
 
 
 
