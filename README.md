@@ -4,13 +4,11 @@
 Poizon api/Dewu data interface/Dewu real-time data interface/Dewu API/ Commodity size price /Dewu api
 * dewu API/ обувь для транспортировки кирпича /poizon API в реальном времени
 
-Contact me
-
 Позвони мне.
 
-Contact telegram：@sleepallday01
+Contact me -> Telegram：@sleepallday01
+Contact me -> Wechat：@sleepallday001
 
-Contact wechat：@sleepallday001
 
 
 
