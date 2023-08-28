@@ -6,9 +6,9 @@ Poizon api/Dewu data interface/Dewu real-time data interface/Dewu API/ Commodity
 
 Позвони мне.
 
-☎️ Contact me ➕ Telegram：@sleepallday01
+☎️ Contact Telegram ➕ @sleepallday01
 
-☎️ Contact me ➕ Wechat：@sleepallday001
+☎️ Contact Wechat ➕ @sleepallday001
 
 🎬 Video：https://www.youtube.com/watch?v=Q1ICYcBB5cs
 
