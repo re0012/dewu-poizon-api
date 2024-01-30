@@ -12,6 +12,25 @@ Poizon api/Dewu data interface/Dewu real-time data interface/Dewu API/ Commodity
 
 🎬 Video：https://www.youtube.com/watch?v=Q1ICYcBB5cs
 
+/get_data
+Search product information by Product ID.
+
+/spu_get_data
+Search product information by Spu ID.
+
+/remain_requests
+Query the remaining token query times.
+
+/url_to_spuId
+Query the spu id of a product by using the url.
+
+/get_brand_id
+Get brand id.
+
+/get_brand_spuId
+Get product spu ids in batches by brand id.
+
+
 ```json
 {
   "code": 200,
