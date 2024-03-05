@@ -34,8 +34,3 @@ Get brand id.
 Get product spu ids in batches by brand id.
 
 
-
-```
-{"code":200,"msg":"success","data":[{"skuId":605917659,"tradeType":"现货","price":0},{"skuId":605917659,"tradeType":"极速","price":0},{"skuId":605917659,"tradeType":"闪电","price":159900}],"status":200}
-```
-
