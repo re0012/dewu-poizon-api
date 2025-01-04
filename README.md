@@ -2,7 +2,7 @@
 得物实时接口/得物数据接口/得物API/商品价格/dewu api/球鞋搬砖/poizon api/api .
 
 Poizon api/Dewu data interface/Dewu real-time data interface/Dewu API/ Commodity size price /Dewu api  
-* dewu API/ обувь для транспортировки кирпича /poizon API в реальном времени 
+* dewu API/ обувь для транспортировки кирпича /poizon API в реальном времени
 
 Позвони мне.
 
